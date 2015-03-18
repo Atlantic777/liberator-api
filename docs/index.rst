@@ -10,8 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
    install
+   documentation
+   models/issue
+   models/*
+   serializers/*
 
 
 
